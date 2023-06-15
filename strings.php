@@ -15,15 +15,9 @@ $age = 30;
 <!DOCTYPE html>
 <html>
 <head>
-	<title> my first php file </title>
+	<title> php strings </title>
 </head>
 <body>
-
-	<h1>User profile page</h1>
-
-	<div><?php echo $name ?></div>
-	<div><?php echo $age ?></div>
-	<div><?php echo NAME ?></div>
 
 </body>
 </html>
