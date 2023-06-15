@@ -1,9 +1,9 @@
-<?php 
+<!-- <?php 
 
-define('NAME', 'yoshi');
+// define('NAME', 'yoshi');
 
 //$name = 'yoshi';
-$age = 30;
+// $age = 30;
 
 //$name = 'mario';
 
@@ -21,4 +21,4 @@ $age = 30;
     <div><?php echo $age; ?></div>
 
 </body>
-</html>
+</html> -->
