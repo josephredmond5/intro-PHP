@@ -1,6 +1,8 @@
 <?php 
-
-
+    // below is a for loop in php 
+    for($i = 0; $i < 5; $i++ ){
+        echo 'some templates';
+    }
 
 ?>
 
