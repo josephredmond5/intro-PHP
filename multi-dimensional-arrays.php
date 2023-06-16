@@ -16,7 +16,14 @@ $blogs = [ // this is a multi dimensional array
     ['title' => 'mario kart cheats', 'author' => 'toad', 'content' => 'lorem', 'likes' => 30],
     ['title' => 'zelda hidden chests', 'author' => 'link', 'content' => 'lorem', 'likes' => 50]
 ];
-echo $blog[2]['author'];
+// echo $blogs[2]['author'];
+// echo count($blogs);
+$blogs[] = ['title' => 'castle party', 'author' => 'peach', 'content' => 'lorem', 'likes' => 100];
+// print_r($blogs);
+
+$popped = array_pop($blogs); // how to take something of an array
+print_r($popped);
+
 
 
 
