@@ -22,5 +22,9 @@ echo 'end of php';
 </head>
 <body>
 
+    <?php include('content.php'); ?> // this is how to include from different pages
+    <?php include('content.php'); ?>
+    <?php include('content.php'); ?>
+
 </body>
 </html>
